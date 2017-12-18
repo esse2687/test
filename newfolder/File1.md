@@ -1,3 +1,3 @@
 - New file 1
 
-- Update file1 
+- Create a conflict
